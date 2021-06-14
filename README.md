@@ -7,7 +7,7 @@ It just gives you that instant gratification as opposed to back-end.
 
 ## Ingredients:
 HTML
-CSS
+CSS "\n"
 NB* No JavaScript was harmed during the creation of this project.
 
 
